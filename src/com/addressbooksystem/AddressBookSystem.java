@@ -113,7 +113,7 @@ public class AddressBookSystem {
         my_dict.put("03", "Kolkata");
         my_dict.put("04", "West Bengal");
         my_dict.put("05", "7859632145");
-        my_dict.put("10", "srcrj0747@gmail.com");
+        my_dict.put("06", "srcrj0747@gmail.com");
 
 
         // using get() method
